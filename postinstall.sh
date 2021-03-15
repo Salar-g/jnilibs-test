@@ -1,1 +1,1 @@
-cp -r android/src/main/jniLibs jnilibs-test
+cp -r android/src/main/jniLibs ../../android/app/src/main
